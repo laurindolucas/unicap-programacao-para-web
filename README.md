@@ -38,6 +38,6 @@ Todo o conteúdo aqui é fruto das aulas e atividades da disciplina **Programaç
 
 ---
 
-✍️ Autor: **Caio Lucas (Laurindo)**  
+✍️ Autor: **Caio Laurindo**  
 📚 Disciplina: **Programação Web - UNICAP**  
 👨‍🏫 Professor: **Rafael Roque** 
