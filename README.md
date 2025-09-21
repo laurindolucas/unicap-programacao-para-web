@@ -18,9 +18,6 @@ A disciplina é ofertada no **2º período** e tem como foco o estudo de **JavaS
 ## 🛠️ Tecnologias Utilizadas
 - **JavaScript** (linguagem principal da disciplina)  
 - **HTML & CSS** (apoio para estrutura e estilização das páginas)  
-- **Navegadores** (para testes e execução dos códigos)  
-- **Ferramentas de desenvolvimento do navegador** (DevTools)  
-
 ---
 
 ## 🎯 Objetivos da Disciplina
